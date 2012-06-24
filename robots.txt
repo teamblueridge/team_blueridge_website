@@ -1,0 +1,4 @@
+Sitemap: http://48121745.nhd.weebly.com/sitemap.xml
+
+User-agent: *
+Allow: /
