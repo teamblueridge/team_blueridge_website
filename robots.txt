@@ -1,4 +1,4 @@
-Sitemap: http://48121745.nhd.weebly.com/sitemap.xml
+Sitemap: http://www.teamblueridge.com/sitemap.xml
 
 User-agent: *
 Allow: /
