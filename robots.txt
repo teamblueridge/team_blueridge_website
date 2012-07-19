@@ -2,3 +2,4 @@ Sitemap: http://www.teamblueridge.com/sitemap.xml
 
 User-agent: *
 Allow: /
+Disallow: /ehcp/
